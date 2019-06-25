@@ -1,0 +1,16 @@
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Release\ScriptableVariableUnity.dll
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Release\ScriptableVariableUnity.pdb
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Release\UnityEditor.dll
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Release\UnityEngine.dll
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Release\Unity.Cecil.dll
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Release\Unity.SerializationLogic.dll
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Release\Unity.DataContract.dll
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Release\ExCSS.Unity.dll
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Release\Unity.Legacy.NRefactory.dll
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Release\Unity.CecilTools.dll
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Release\UnityEditor.xml
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Release\UnityEngine.xml
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\obj\Release\ScriptableVariableUnity.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\obj\Release\ScriptableVariableUnity.csproj.CopyComplete
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\obj\Release\ScriptableVariableUnity.dll
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\obj\Release\ScriptableVariableUnity.pdb

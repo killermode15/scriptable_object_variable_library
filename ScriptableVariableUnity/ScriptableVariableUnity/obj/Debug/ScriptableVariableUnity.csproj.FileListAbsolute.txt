@@ -1,0 +1,17 @@
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Debug\ScriptableVariableUnity.dll
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Debug\ScriptableVariableUnity.pdb
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Debug\UnityEditor.dll
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Debug\UnityEngine.dll
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Debug\Unity.Cecil.dll
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Debug\Unity.SerializationLogic.dll
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Debug\Unity.DataContract.dll
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Debug\ExCSS.Unity.dll
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Debug\Unity.Legacy.NRefactory.dll
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Debug\Unity.CecilTools.dll
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Debug\UnityEditor.xml
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\bin\Debug\UnityEngine.xml
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\obj\Debug\ScriptableVariableUnity.csprojResolveAssemblyReference.cache
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\obj\Debug\ScriptableVariableUnity.csproj.CoreCompileInputs.cache
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\obj\Debug\ScriptableVariableUnity.csproj.CopyComplete
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\obj\Debug\ScriptableVariableUnity.dll
+C:\Users\Home\source\repos\ScriptableVariableUnity\ScriptableVariableUnity\obj\Debug\ScriptableVariableUnity.pdb
