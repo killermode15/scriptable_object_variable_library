@@ -46,7 +46,6 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="Class1.cs" />
     <Compile Include="Editor\BoolPropertyDrawer.cs" />
     <Compile Include="Editor\DoublePropertyDrawer.cs" />
     <Compile Include="Editor\Vector4PropertyDrawer.cs" />
@@ -70,5 +69,6 @@
     <Compile Include="Variables\Vector3Variable.cs" />
     <Compile Include="Variables\Vector4Variable.cs" />
   </ItemGroup>
+  <ItemGroup />
   <Import Project="$(MSBuildToolsPath)\Microsoft.CSharp.targets" />
 </Project>

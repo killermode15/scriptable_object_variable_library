@@ -1,9 +1,5 @@
-﻿using System.Collections;
-using System.Collections.Generic;
-using UnityEditor;
+﻿using UnityEditor;
 using UnityEngine;
-using UnityEngine.UIElements;
-using UnityEditor.UIElements;
 
 [CustomPropertyDrawer(typeof(Vector2Reference))]
 public class Vector2PropertyDrawer : PropertyDrawer
@@ -11,14 +7,24 @@ public class Vector2PropertyDrawer : PropertyDrawer
     private string[] options = { "Use Constant", "Use Variable" };
     private int boolVal = 0;
 
+
     public override void OnGUI(Rect position, SerializedProperty property, GUIContent label)
     {
-        //base.OnGUI(position, property, label);
-        GUILayout.BeginHorizontal();
+        EditorGUI.BeginProperty(position, label, property);
+
+        Debug.Log(position.position);
+        Debug.Log(position.size);
+
+        position = EditorGUI.PrefixLabel(position, GUIUtility.GetControlID(FocusType.Passive), label);
+        boolVal = EditorGUI.Popup(new Rect(position.position - new Vector2(20, 0), new Vector2(17.5f, position.size.y)), boolVal, options);
         bool useConstant = property.FindPropertyRelative("useConstant").boolValue = (boolVal == 0);
 
-        EditorGUILayout.PropertyField(useConstant ? property.FindPropertyRelative("constantValue"): property.FindPropertyRelative("vector2Variable"), label);
-        boolVal = EditorGUILayout.Popup(boolVal, options,GUILayout.Width(15));
-        GUILayout.EndHorizontal();
+        EditorGUI.PropertyField(position,
+            useConstant
+                ? property.FindPropertyRelative("constantValue")
+                : property.FindPropertyRelative("vector2Variable"), GUIContent.none);
+
+        EditorGUI.EndProperty();
     }
 }
+
